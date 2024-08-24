@@ -9,3 +9,10 @@
 - **main**: Branch principal e estável, usada para lançamentos.
 - **develop**: Branch de integração para novas funcionalidades.
 - **feature/nome-da-funcionalidade**: Branch para desenvolvimento de funcionalidades específicas.
+
+cltversion/          # Diretório do projeto
+├── .git/            # Diretório oculto que contém o repositório Git
+├── index.html       # Arquivo HTML principal
+├── styles.css       # Arquivo CSS principal
+├── COMANDOS.md      # Documento de comandos utilizados
+└── README.md        # Documento de descrição do projeto
